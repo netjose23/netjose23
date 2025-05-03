@@ -3,8 +3,9 @@
 
 ![python-in-cybersecurity](https://user-images.githubusercontent.com/84818768/155425936-2b5ab746-8480-41af-8488-866699bf675f.jpeg)
 
-- 🔭 Cybersecurity AWS Security
-- 📫 How to reach me: TheITBlog.info
+- 🔭 Building & Securing on-prem & Hybrid IP Networks (Fortinet & AWS Specialist)
+- 🌱 I’m currently learning: HTML, CSS, JS & AWS Solutions Architect Professional
+- 📫 How to reach me: jalvarado@a-mis.net
 <!--
 **netjose23/netjose23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
